@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuhang Zhang"
-description              : "Assistant professor at School of Geospatial Engineering and Science, Sun Yat-sen University"
+description              : "" # "Associate professor at School of Geospatial Engineering and Science, Sun Yat-sen University"
 repository               : "shuhangz/shuhangz.github.io"
 google_scholar_stats_use_cdn : true
 # google analytics
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuhang Zhang"
   avatar           : "images/profile.jpg"
-  bio              : "Assistant professor at School of Geospatial Engineering and Science, Sun Yat-sen University"
+  bio              : "Associate professor at School of Geospatial Engineering and Science, Sun Yat-sen University"
   location         : "Zhuhai, Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "shuhangz@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Shuhang_Zhang3"
+  googlescholar    : "https://scholar.google.com/citations?user=8jDMy4IAAAAJ"
+  email            : "zhangsh52@mail.sysu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Shuhang-Zhang-2/"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shuhang-zhang"
+  linkedin         : # "shuhang-zhang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
