@@ -32,7 +32,17 @@ My current research focuses on the mission planning of UAVs for airborne data ac
 - **Model based 3D planning**: Path planning for UAV complete and precise 3D reconstruction based on the analysis of *a priori* model.
 - **Path planning for Multi-spectral imaging**: Path planning for multi-spectral imaging of river network.
 - **Flight path optimization and collaborative planning**: UAV flight path optimization method based on energy cost, and parallel task allocation and scheduling for multiple UAVs. -->
+# 🎓 Education
 
+- *2014- 2020*, **DEng. in Surveying and Mapping**, College of Surveying and Geo-informatics, Tongji University, Shanghai, China
+- *2018 - 2019*, **Joint Ph.D. Student**, Institute for Photogrammetry, University of Stuttgart, Germany
+- *2010- 2014*, **B.Sc. in Geographic Information System**, College of Surveying and Geo-informatics, Tongji University, Shanghai, China
+
+
+# 💼 Experience
+
+- *2025- Present*, **Associate Professor**, School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China
+- *2020 - 2025*, **Assistant Professor**, School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China
 
 # 📝 Publications 
 
@@ -114,17 +124,7 @@ Jinchen He, **Shuhang Zhang**\*, Wei Feng, Xiaodong Cui, Min Zhong
 
 - **Zhang, S.**, Liu, C.\*, & Zhou, Y. (2019). UAV-Based Gigapixel Panoramic Image Acquisition Planning with Ray Casting-Based Overlap Constraints. *Journal of Sensors*. 
 
-# 🎓 Education
 
-- *2014- 2020*, **DEng. in Surveying and Mapping**, College of Surveying and Geo-informatics, Tongji University, Shanghai, China
-- *2018 - 2019*, **Joint Ph.D. Student**, Institute for Photogrammetry, University of Stuttgart, Germany
-- *2010- 2014*, **B.Sc. in Geographic Information System**, College of Surveying and Geo-informatics, Tongji University, Shanghai, China
-
-
-# 💼 Experience
-
-- *2025- Present*, **Associate Professor**, School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China
-- *2020 - 2025*, **Assistant Professor**, School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China
 
 # 🌟 Fundings and Projects
 

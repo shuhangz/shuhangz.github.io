@@ -1,4 +1,16 @@
 # main links links
-# The new template uses a single-page design
-# You can add links here if needed in the future
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Fundings and Projects"
+    url: "/#-fundings-and-projects"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+    
+  - title: "Talks and Presentations"
+    url: "/#-talks-and-presentations"
