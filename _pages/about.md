@@ -155,6 +155,8 @@ Jinchen He, **Shuhang Zhang**\*, Wei Feng, Xiaodong Cui, Min Zhong
 
 # 💬 Talks and Presentations
 
+- *2025.10*, "RGB-Assisted Orthoimage Mosaicking of Thermal Infrared Sea Ice Imagery from Low-Cost UAVs", The Eighth International Symposium on Arctic Research
+- *2025.10*, "Mapping the drifting sea ice with UAV photogrammetry", 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Workshop -- Towards Resilient Navigation in the Wild
 - *2024.12*, "Polar Scientific Research UAV Optical and Infrared Applications", 7th National Marine Optics Technology Exchange Conference
 - *2024.10*, "Arctic Ship-based UAV Remote Sensing: Status and Prospects", CAE Academic Symposium on Continental Shelf and Regional Institutional Science and Technology Frontiers
 - *2023.12*, "UAV Fine Terrain Survey of Wudalianchi Aerial Gravity Gradient Calibration Field", 1st Guangdong-Hong Kong-Macao Greater Bay Area Surveying and Remote Sensing Conference
