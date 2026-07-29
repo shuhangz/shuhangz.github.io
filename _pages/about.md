@@ -63,6 +63,31 @@ My current research focuses on the mission planning of UAVs for airborne data ac
 -->
 (\*Corresponding Author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDE</div><img src='images/publication/ijde2026_depression.svg' alt="Terrain-depression search for large radio telescope siting" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A general method for searching customized depressions for large radio telescopes using digital elevation models](https://doi.org/10.1080/17538947.2026.2631243)
+
+**Shuhang Zhang**, Zeyuan Cao, Wuming Zhang\*, Boqin Zhu, Bo Peng, Bo Ma, Yang Gao, Weipeng Lin, Jianbin Li
+
+- *International Journal of Digital Earth*, 19(1). (SCI, Q1)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPRS</div><img src='images/publication/isprsjprs2026_dgslam.svg' alt="DG-SLAM UAV orthophoto mapping in weak-textured environments" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments](https://doi.org/10.1016/j.isprsjprs.2026.07.004)
+
+Yao Cui, Yinning Pang, **Shuhang Zhang**\*, Guoyan Wang, Hongqi Fan
+
+[**Dataset**](https://doi.org/10.17632/s5w4r9ftbr.2)
+- *ISPRS Journal of Photogrammetry and Remote Sensing*, 240, 1–15. (SCI, Q1)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='images\publication\jag2025_slump.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -107,10 +132,6 @@ Jinchen He, **Shuhang Zhang**\*, Wei Feng, Xiaodong Cui, Min Zhong
 
 
 
-
-- **Zhang, S.**, Cao, Z., Zhang, W., Zhu, B., Peng, B., Ma, B., Gao, Y., Lin, W., & Li, J. (2026). [A general method for searching customized depressions for large radio telescopes using digital elevation models](https://doi.org/10.1080/17538947.2026.2631243). *International Journal of Digital Earth*, 19(1).
-
-- Cui, Y., Pang, Y., **Zhang, S.**, Wang, G., & Fan, H. (2026). [DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments](https://doi.org/10.1016/j.isprsjprs.2026.07.004). *ISPRS Journal of Photogrammetry and Remote Sensing*, 240, 1–15.
 
 - He, J., **Zhang, S.**\*, Cui, X., et al. (2024). Remote sensing for shallow bathymetry: A systematic review. *Earth-Science Reviews*, 104957. 
 
