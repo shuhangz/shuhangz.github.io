@@ -108,6 +108,10 @@ Jinchen He, **Shuhang Zhang**\*, Wei Feng, Xiaodong Cui, Min Zhong
 
 
 
+- **Zhang, S.**, Cao, Z., Zhang, W., Zhu, B., Peng, B., Ma, B., Gao, Y., Lin, W., & Li, J. (2026). [A general method for searching customized depressions for large radio telescopes using digital elevation models](https://doi.org/10.1080/17538947.2026.2631243). *International Journal of Digital Earth*, 19(1).
+
+- Cui, Y., Pang, Y., **Zhang, S.**, Wang, G., & Fan, H. (2026). [DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments](https://doi.org/10.1016/j.isprsjprs.2026.07.004). *ISPRS Journal of Photogrammetry and Remote Sensing*, 240, 1–15.
+
 - He, J., **Zhang, S.**\*, Cui, X., et al. (2024). Remote sensing for shallow bathymetry: A systematic review. *Earth-Science Reviews*, 104957. 
 
 - He, J., **Zhang, S.**\*, Feng, W., et al. (2024). Quantifying earthquake-induced bathymetric changes in a tufa lake using high-resolution remote sensing data. *International Journal of Applied Earth Observation and Geoinformation*, 127, 103680. 
