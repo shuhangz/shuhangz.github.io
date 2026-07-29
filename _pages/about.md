@@ -63,37 +63,41 @@ My current research focuses on the mission planning of UAVs for airborne data ac
 -->
 (\*Corresponding Author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPRS</div><img src='images/publication/isprsjprs2026_dgslam.svg' alt="DG-SLAM UAV orthophoto mapping in weak-textured environments" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments](https://doi.org/10.1016/j.isprsjprs.2026.07.004)
+
+Yao Cui, Yinning Pang, **Shuhang Zhang**\*, Guoyan Wang, Hongqi Fan (2026)
+
+[**Seal Bay and Slump datasets**](https://data.mendeley.com/datasets/s5w4r9ftbr/1)
+
+[**Soil dataset (with GCPs)**](https://data.mendeley.com/datasets/n8xzhmn635/1)
+- *ISPRS Journal of Photogrammetry and Remote Sensing*, 240, 1–15. (SCI, Q1)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDE</div><img src='images/publication/ijde2026_depression.svg' alt="Terrain-depression search for large radio telescope siting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A general method for searching customized depressions for large radio telescopes using digital elevation models](https://doi.org/10.1080/17538947.2026.2631243)
 
-**Shuhang Zhang**, Zeyuan Cao, Wuming Zhang\*, Boqin Zhu, Bo Peng, Bo Ma, Yang Gao, Weipeng Lin, Jianbin Li
+**Shuhang Zhang**, Zeyuan Cao, Wuming Zhang\*, Boqin Zhu, Bo Peng, Bo Ma, Yang Gao, Weipeng Lin, Jianbin Li (2026)
 
 - *International Journal of Digital Earth*, 19(1). (SCI, Q1)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPRS</div><img src='images/publication/isprsjprs2026_dgslam.svg' alt="DG-SLAM UAV orthophoto mapping in weak-textured environments" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments](https://doi.org/10.1016/j.isprsjprs.2026.07.004)
-
-Yao Cui, Yinning Pang, **Shuhang Zhang**\*, Guoyan Wang, Hongqi Fan
-
-[**Dataset**](https://doi.org/10.17632/s5w4r9ftbr.2)
-- *ISPRS Journal of Photogrammetry and Remote Sensing*, 240, 1–15. (SCI, Q1)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='images\publication\jag2025_slump.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-scale Antarctic grounded ice cliff 3D calving monitoring based on multi-temporal UAV photogrammetry without ground control](https://doi.org/10.1016/j.jag.2025.104620)
 
-**Shuhang Zhang**, Lei Zheng\*, Huizhou Zhou, Qiuyang Zhao, Jie Li, Yinyue Xia, Wuming Zhang, Xiao Cheng
+**Shuhang Zhang**, Lei Zheng\*, Huizhou Zhou, Qiuyang Zhao, Jie Li, Yinyue Xia, Wuming Zhang, Xiao Cheng (2025)
 
 
 [**Code**](https://github.com/shuhangz/Icecliff_calving_detection)
@@ -108,7 +112,7 @@ Yao Cui, Yinning Pang, **Shuhang Zhang**\*, Guoyan Wang, Hongqi Fan
 
 [Guided by model quality: UAV path planning for complete and precise 3D reconstruction of complex buildings](https://www.sciencedirect.com/science/article/pii/S1569843224000219)
 
-**Shuhang Zhang**, Chun Liu\*, Norbert Haala
+**Shuhang Zhang**, Chun Liu\*, Norbert Haala (2025)
 
 - *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 127, 103667. (SCI, Q1)
 
