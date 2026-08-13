@@ -63,7 +63,7 @@ My current research focuses on the mission planning of UAVs for airborne data ac
 -->
 (\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPRS</div><img src='images/publication/isprsjprs2026_dgslam.svg' alt="DG-SLAM UAV orthophoto mapping in weak-textured environments" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPRS</div><img src='images/publication/isprs_2026_dgslam.jpg' alt="DG-SLAM UAV orthophoto mapping in weak-textured environments" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments](https://doi.org/10.1016/j.isprsjprs.2026.07.004)
@@ -78,7 +78,7 @@ Yao Cui, Yinning Pang, **Shuhang Zhang**\*, Guoyan Wang, Hongqi Fan (2026)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDE</div><img src='images/publication/ijde2026_depression.svg' alt="Terrain-depression search for large radio telescope siting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDE</div><img src='images/publication/tjde_2026_c.jpg' alt="Terrain-depression search for large radio telescope siting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A general method for searching customized depressions for large radio telescopes using digital elevation models](https://doi.org/10.1080/17538947.2026.2631243)
